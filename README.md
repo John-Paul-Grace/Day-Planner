@@ -22,7 +22,7 @@ SO THAT I can manage my time effectively
 
 ## Screenshot
 
-![Screenshot](./Assets/resized-image-promo.jpeg)
+![Screenshot](./Assets/Screenshot.png "Screenshot of the app")
 
 ## Contributions
 
