@@ -1,12 +1,12 @@
-# 05-Day-Planner
+# Day-Planner
 
 ## Application Link
 
-https://john-paul-grace.github.io/05-Day-Planner/
+https://john-paul-grace.github.io/Day-Planner/
 
 ## Repository Link
 
-https://github.com/John-Paul-Grace/05-Day-Planner
+https://github.com/John-Paul-Grace/Day-Planner
 
 ## Description
 
