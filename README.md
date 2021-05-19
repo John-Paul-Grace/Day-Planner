@@ -22,7 +22,7 @@ SO THAT I can manage my time effectively
 
 ## Screenshot
 
-![Screenshot](./Assets/Screenshot.png)
+![Screenshot](./Assets/Screenshot.PNG)
 
 ## Contributions
 
